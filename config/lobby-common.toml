@@ -25,7 +25,7 @@
 	defaultDimension = "minecraft:overworld"
 	defaultDimensionName = "Spawn"
 	#Command user could use to teleport to the dimension like /spawn
-	defaultCommandName = "spawn"
+	defaultCommandName = "overworld"
 	#Range: 0 ~ 4
 	defaultCommandPermissionLevel = 0
 	#If enabled the teleport command could not be used if the user is already in the default dimension.
@@ -52,7 +52,7 @@
 	lobbyDimension = "lobby:lobby_dimension"
 	lobbyDimensionName = "Capital Arcanum"
 	#Command user could use to teleport to the dimension like /lobby
-	lobbyCommandName = "lobby"
+	lobbyCommandName = "capital"
 	#Range: 0 ~ 4
 	lobbyCommandPermissionLevel = 0
 	#If enabled the teleport command could not be used if the user is already in the lobby dimension.
