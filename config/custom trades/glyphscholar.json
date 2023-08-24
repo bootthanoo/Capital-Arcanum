@@ -1,0 +1,24 @@
+{
+  "profession": "spacecatcustomprofessions:glyphscholar",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "dotcoinmod:silver_coin",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "ars_nouveau:source_berry",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 0.1,
+      "maxUses": 999999,
+      "priceMultiplier": 0,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "spacecatcustomprofessions:glyphscholar_source_berry_for_copper_coin"
+    }
+  ]
+}
