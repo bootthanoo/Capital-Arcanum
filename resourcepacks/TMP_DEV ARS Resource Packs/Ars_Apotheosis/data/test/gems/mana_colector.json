@@ -1,0 +1,55 @@
+{
+    "variant": "mana_colector",
+    "weight": 5,
+    "quality": 1,
+    "unique": true,
+    "dimensions": [],
+    "bonuses": [
+        {
+            "type": "apotheosis:attribute",
+            "gem_class":
+            {
+                "key": "anything",
+                "types": ["helmet",
+                    "chestplate",
+                    "leggings",
+                    "boots"]
+            },
+            "attribute": "ars_nouveau:ars_nouveau.perk.mana_regen",
+            "operation": "ADDITION",
+            "values":
+            {
+                "uncommon":
+                {
+                    "min": 0.1,
+                    "steps": 5,
+                    "step": 0.001
+                },
+                "rare":
+                {
+                    "min": 0.25,
+                    "steps": 5,
+                    "step": 0.001
+                },
+                "epic":
+                {
+                    "min": 0.5,
+                    "steps": 5,
+                    "step": 0.001
+                },
+                "mythic":
+                {
+                    "min": 1,
+                    "steps": 5,
+                    "step": 0.001
+                },
+                "ancient":
+                {
+                    "min": 3,
+                    "steps": 5,
+                    "step": 0.001
+                }
+            }
+        }
+    ]
+}
