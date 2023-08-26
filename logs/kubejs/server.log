@@ -1,9 +1,0 @@
-[10:42:46] [INIT] KubeJS 1902.6.1-build.364; MC 1902 forge
-[10:42:46] [INIT] Loaded plugins:
-[10:42:46] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[10:42:46] [INIT] - pro.mikey.kubeutils.kubejs.KubeUtilsPlugin
-[10:42:46] [INIT] - pie.ilikepiefoo.kubejsoffline.OfflinePlugin
-[10:42:46] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[10:42:46] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
-[10:42:46] [INFO] Loaded 0/0 KubeJS server scripts in 0.008 s
-[10:42:46] [INFO] Scripts loaded
