@@ -1,4 +1,14 @@
 *.DS_Store
 *.log
+*.log.gz
 saves/New*
 journeymap/
+saves/
+modernfix/
+usercache.json
+latest.log
+client.log
+server.log
+startup.log
+logs/
+logs/*
