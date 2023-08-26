@@ -13,3 +13,4 @@ startup.log
 logs/
 logs/*
 logs/kubejs/
+.gitignore.swp
