@@ -3,9 +3,9 @@
 	#Enable the somnium bar above the food bar.
 	"Enable Somnium Bar" = false
 	#Move the somnium bar along the Y axis.
-	"Somnium Bar Y" = 0.0
+	"Somnium Bar Y" = 5000.0
 	#Move the somnium bar along the X axis.
-	"Somnium Bar X" = 0.0
+	"Somnium Bar X" = 5000.0
 
 [GUIDE]
 	#Give the player the official The Abyss guide book.
