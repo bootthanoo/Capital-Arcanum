@@ -14,3 +14,4 @@ logs/
 logs/*
 logs/kubejs/
 .gitignore.swp
+usernamecache.json
