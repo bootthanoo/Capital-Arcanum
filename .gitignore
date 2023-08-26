@@ -12,3 +12,4 @@ server.log
 startup.log
 logs/
 logs/*
+logs/kubejs/
