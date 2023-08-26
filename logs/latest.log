@@ -4781,3 +4781,5 @@ java.lang.NullPointerException: Cannot read field "f_19853_" because "pTrader" i
 [09:18:29] [Structurize IO Worker #1/INFO]: Registered structure pack: Urban Savanna
 [09:18:29] [Structurize IO Worker #1/INFO]: Registered structure pack: silent_wing
 [09:18:29] [Structurize IO Worker #1/WARN]: Finished discovering Client Structure packs
+[09:37:31] [Render thread/INFO]: Stopping!
+[09:37:31] [Render thread/INFO]: Released client Flux Networks cache
