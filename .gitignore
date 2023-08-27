@@ -15,3 +15,4 @@ logs/*
 logs/kubejs/
 .gitignore.swp
 usernamecache.json
+options.txt
