@@ -16,3 +16,15 @@ logs/kubejs/
 .gitignore.swp
 usernamecache.json
 options.txt
+local/
+config-bak/
+crash-reports/
+essential/
+screenshots/
+thingspacks/
+servers.dat
+servers.dat_old
+servers.essential.dat
+defaultconfigs/
+saves/
+blueprints/

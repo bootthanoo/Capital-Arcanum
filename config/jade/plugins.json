@@ -49,6 +49,9 @@
   "ars_nouveau": {
     "mob_jar": true
   },
+  "mysticalagradditions": {
+    "infused_farmland": true
+  },
   "reliquary": {
     "pedestal": true,
     "altar": true,

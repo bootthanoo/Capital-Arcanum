@@ -29,7 +29,7 @@
     "chestLootLimit": 3,
     "lootFromSpawnerEntities": true,
     "serverAllowAutoPickup": true,
-    "autoPickup": false
+    "autoPickup": true
   },
   "entities": {
     "whitelistedDimensions": [],

@@ -24,8 +24,8 @@
 	basicEnemySet2 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
 	advancedEnemySet1 = ["minecraft:pillager", "minecraft:skeleton", "minecraft:stray", "minecraft:blaze"]
 	advancedEnemySet2 = ["minecraft:wither_skeleton", "minecraft:hoglin", "minecraft:vindicator", "minecraft:witch"]
-	basicEnemyHealthScaling = 5.0
-	advancedEnemyHealthScaling = 10.0
+	basicEnemyHealthScaling = 1.0
+	advancedEnemyHealthScaling = 2.0
 	#The number of themes to expect in the common config.
 	numberOfThemes = 3
 
