@@ -29,7 +29,8 @@
       "maxUses": 10,
       "priceMultiplier": 0.1,
       "demand": 0,
-      "tradeLevel": 1
+      "tradeLevel": 1,
+      "UTID": "minecraft:armorer_dirt_for_cobblestone"
     },
     {
       "offer": {
@@ -51,7 +52,8 @@
       "maxUses": 10,
       "priceMultiplier": 0.1,
       "demand": 0,
-      "tradeLevel": 2
+      "tradeLevel": 2,
+      "UTID": "minecraft:armorer_emerald_for_iron_ingot_and_gold_ingot"
     },
     {
       "multiOffer": [
@@ -80,7 +82,8 @@
       "maxUses": 5,
       "priceMultiplier": 0.1,
       "demand": 0,
-      "tradeLevel": 3
+      "tradeLevel": 3,
+      "UTID": "minecraft:armorer_multioffer_iron_axe_for_iron_ingot"
     },
     {
       "offer": {
@@ -114,7 +117,8 @@
       "maxUses": 5,
       "priceMultiplier": 0.0,
       "demand": 0,
-      "tradeLevel": 4
+      "tradeLevel": 4,
+      "UTID": "minecraft:armorer_wooden_sword_for_quartz"
     },
     {
       "offer": {
@@ -142,7 +146,8 @@
       "maxUses": 10,
       "priceMultiplier": 0.1,
       "demand": 0,
-      "tradeLevel": 1
+      "tradeLevel": 1,
+      "UTID": "minecraft:armorer_enchanted_book_for_emerald"
     }
   ]
 }
